@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "+bsHMUEzgOUb8vJWUYtON3zaVOrmt3Bk2oyoXWgHY5Qn/XrbttSoXDAHwGlAGRpjDHAntp+WQ06j2w02oGSLBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gaming\\source\\repos\\C-Kodlama.io\\KodlamaioCSharp\\KodlamaioCSharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gaming\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.1\\microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gaming\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.1\\microsoft.net.illink.tasks.8.0.1.nupkg.sha512",
+    "C:\\Users\\Gaming\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.1\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
